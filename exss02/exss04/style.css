@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+:root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+    --red:#4f3;
+ }
+ ul{
+    display: flex;
+    list-style: none;
+    margin: 7px 20px 40px 20px;
+    border: var(--blue) solid 2px;
+    /* align-items: center; */
+    background-color: var(--red);
+}
+ nav ul li {
+    /* display: flex; */
+    margin: 5px;
+    /* align-items: center; */
+    text-align: center;
+}
+

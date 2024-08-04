@@ -1,0 +1,15 @@
+nav ul li{
+    /* list-style: deven;
+    background-color: yellow;
+    list-style-position: inside;
+    border: 2px solid beige;*/
+    list-style: none;
+    padding: 20px;
+    
+} 
+
+nav ul{
+    display: flex;
+    justify-content: center;
+
+}
